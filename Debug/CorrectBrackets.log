@@ -1,0 +1,6 @@
+﻿  CorrectBrackets.cpp
+E:\Python\CorrectBrackets\CorrectBrackets\CorrectBrackets.cpp(9,34): warning C4018: '<=': signed/unsigned mismatch
+E:\Python\CorrectBrackets\CorrectBrackets\CorrectBrackets.cpp(20,23): warning C4018: '<=': signed/unsigned mismatch
+E:\Python\CorrectBrackets\CorrectBrackets\CorrectBrackets.cpp(37,29): warning C4018: '<=': signed/unsigned mismatch
+E:\Python\CorrectBrackets\CorrectBrackets\CorrectBrackets.cpp(48,29): warning C4018: '<=': signed/unsigned mismatch
+  CorrectBrackets.vcxproj -> E:\Python\CorrectBrackets\Debug\CorrectBrackets.exe
